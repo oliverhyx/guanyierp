@@ -1,6 +1,6 @@
 {
   "name": "@neuit/guanyierp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "用于管理管易ERP系统的Node.js接口库",
   "main": "lib/main.js",
   "scripts": {
