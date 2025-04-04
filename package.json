@@ -1,0 +1,39 @@
+{
+  "name": "@neuit/guanyierp",
+  "version": "1.0.0",
+  "description": "用于管理管易ERP系统的Node.js接口库",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverhyx/guanyierp.git"
+  },
+  "keywords": [
+    "ERP",
+    "C-ERP",
+    "Guanyi",
+    "Node.js",
+    "API Client"
+  ],
+  "author": "宁波诺幺信息技术有限公司",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliverhyx/guanyierp/issues"
+  },
+  "homepage": "https://github.com/oliverhyx/guanyierp#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  }
+}

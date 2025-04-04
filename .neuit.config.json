@@ -1,0 +1,6 @@
+{
+  "guanyi_appkey": "YOUR_APPKEY",
+  "guanyi_sessionkey": "YOUR_SESSIONKEY",
+  "guanyi_appsecret": "YOUR_APPSECRET",
+  "guanyi_baseUrl": "http://v2.api.guanyierp.com/rest/erp_open"
+} 
