@@ -1,10 +1,10 @@
 {
   "name": "@neuit/guanyierp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "用于管理管易ERP系统的Node.js接口库",
   "main": "lib/main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest ./test/main.test.js"
   },
   "repository": {
     "type": "git",
